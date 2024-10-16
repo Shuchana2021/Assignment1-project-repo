@@ -1,0 +1,41 @@
+@import url("'https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+.btn{
+
+padding: 14px 18px 14px 18px;
+color: white;
+background-color: black;
+border-radius: 8px;
+gap: 10;
+align-items: center;
+}
+
+#hero{
+    height: 600px;
+    background-image: url("../assets/Hero-bg.png");
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#hero .hero-content{
+    width: 400px;
+    font-size: 20px;
+    letter-spacing: 20%;
+    text-align: center;
+}
+#hero .hero-content .title{
+
+    color: #000;
+}
+
+
+
+
+
+
+
+
+
+
