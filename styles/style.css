@@ -68,7 +68,7 @@ align-items: center;
     align-items: center;
     }
    
-    /* #hero-3{
+    #hero-3{
         align-items: center;  
     letter-spacing: 20%;
     text-align: center;
@@ -79,9 +79,10 @@ align-items: center;
 
     }
     
-    .subtitle1{
+    .link{
+padding-top: 80px;
 
-    } */
+    }
 
 
 
